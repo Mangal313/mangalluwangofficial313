@@ -1,0 +1,10 @@
+node_modules
+.env
+.next
+dist
+.DS_Store
+.idea
+.vscode
+coverage
+/prisma/dev.db
+/prisma/migrations
